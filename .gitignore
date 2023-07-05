@@ -1,0 +1,11 @@
+
+*.log
+__pycache__
+iib.db
+tags-translate.csv
+launch.sh
+conf.json
+iib.db-journal
+.env
+standalone.cmd
+.vscode
